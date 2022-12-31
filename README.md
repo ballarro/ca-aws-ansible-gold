@@ -1,2 +1,1 @@
 # ca-aws-ansible-gold
-
